@@ -1,5 +1,9 @@
-![Follow me on Twitter](https://img.shields.io/twitter/follow/cnocon?color=%234aa1eb&label=Follow%20Me&logo=twitter&logoColor=%234aa1eb&style=for-the-badge) ![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge
-)
+![Follow me on Twitter](https://img.shields.io/twitter/follow/cnocon?color=%234aa1eb&label=Follow%20Me&logo=twitter&logoColor=%234aa1eb&style=for-the-badge) <a href="https://www.linkedin.com/in/cristinoconnor">
+  ![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+  <a href="https://stackoverflow.com/users/2187039/cnocon">
+  ![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
+</a>
+
 
 ## GitHub Stats
 |<img height="200em" src="https://github-readme-stats.vercel.app/api?username=cnocon&show_icons=true&hide_border=true&show_private=true&theme=cobalt" />|<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cnocon&show_icons=true&hide_border=true&show_private=true&theme=cobalt"/>|
