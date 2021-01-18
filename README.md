@@ -1,12 +1,8 @@
-<a href="https://twitter.com/cnocon" target="_blank">
-  ![Follow me on Twitter](https://img.shields.io/twitter/follow/cnocon?color=%234aa1eb&label=Follow%20Me&logo=twitter&logoColor=%234aa1eb&style=for-the-badge)
-</a>
-<a href="https://www.linkedin.com/in/cristinoconnor" target="_blank">
-  ![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)
-</a> 
-<a href="https://stackoverflow.com/users/2187039/cnocon" target="_blank">
-  ![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)
-</a>
+<a href="https://twitter.com/cnocon" target="_blank">![Follow me on Twitter](https://img.shields.io/twitter/follow/cnocon?color=%234aa1eb&label=Follow%20Me&logo=twitter&logoColor=%234aa1eb&style=for-the-badge)</a>
+
+<a href="https://www.linkedin.com/in/cristinoconnor" target="_blank">![Find me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+
+<a href="https://stackoverflow.com/users/2187039/cnocon" target="_blank">![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)</a>
 
 
 ## GitHub Stats
